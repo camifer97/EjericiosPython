@@ -13,3 +13,4 @@ while n!=number:
     else:
         break
 print("Felicitaciones! Has ganado el juego.")
+
